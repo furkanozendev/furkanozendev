@@ -30,7 +30,7 @@
 - 💻 I'm Addicted to Kotlin, working on Kotlin multi-platform and server-side.    
   
 
-- 🤔 I'm interested in Software Architecture Patterns.   
+- 🤔 I'm interested in Android App Development.   
   
 
 - 🔭 In love with Space and Physics.    
