@@ -27,7 +27,7 @@
 - 🎒 I'm currently Studying in Turkey, Sakarya University MIS.  
   
 
-- 💻 I'm Addicted to Kotlin, working on Kotlin multi-platform and server-side.    
+- 💻 I'm Addicted to Kotlin, enthusiastic about Kotlin multi-platform and Kotlin server-side.    
   
 
 - 🤔 I'm interested in Android App Development.   
