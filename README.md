@@ -21,7 +21,7 @@
 
 <img width="40%" align="right" alt="space-computers" src="https://media.giphy.com/media/11AyYDOVV6K2wE/giphy.gif" />
 
-### <div align="center">👨‍💻 I'm working on Kotlin Multiplatform and Server-side. I'm Student for now 🎒</div>  
+### <div align="center">👨‍💻 I'm enthusiastic about Kotlin Multiplatform and Kotlin Server-side. I'm Student for now 🎒</div>  
 <br/>
 
 - 🎒 I'm currently Studying in Turkey, Sakarya University MIS.  
