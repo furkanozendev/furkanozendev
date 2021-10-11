@@ -51,7 +51,6 @@
   <img src="https://github.com/Web0zz/Web0zz/blob/main/badges/java.svg" alt="Java" height="40" />
   <img src="https://github.com/Web0zz/Web0zz/blob/main/badges/postgreSQL.svg" alt="PostgreSQL" height="40" />
   <img src="https://github.com/Web0zz/Web0zz/blob/main/badges/mongoDB.svg" alt="MongoDB" height="40" />
-  <img src="https://github.com/Web0zz/Web0zz/blob/main/badges/firebase.svg" alt="Firebase" height="40" />
   <img src="https://github.com/Web0zz/Web0zz/blob/main/badges/heroku.svg" alt="Heroku" height="40" />
   <img src="https://github.com/Web0zz/Web0zz/blob/main/badges/gradle.svg" alt="Gradle" height="40" />
   <img src="https://github.com/Web0zz/Web0zz/blob/main/badges/git.svg" alt="Git" height="40" />
