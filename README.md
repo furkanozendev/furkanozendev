@@ -62,8 +62,14 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Web0zz&show_icons=true&count_private=true&hide_border=true&theme=dracula"" alt="Web0zz :: Profile Stats"/>
 </div>
+
 <br />
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Web0zz&langs_count=10&theme=dracula&layout=compact" alt="Web0zz :: Top Langs" />
 </div>
+<br />
 
+<div align="center"> 
+  <p>Visitor count<br></p>
+  <img src="https://profile-counter.glitch.me/web0zz/count.svg" />
+</div>
