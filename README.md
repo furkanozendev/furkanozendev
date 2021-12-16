@@ -3,18 +3,9 @@
 <h3 align="center">Connect with me</h3>
 
 <div align="center">
-<a href="https://twitter.com/Web0zz" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter/>
-</a>
 <a href="https://linkedin.com/in/furkan-özen-15435a1ab" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin/>
 </a>
-<a href="https://www.facebook.com/furkan.ozen.3388" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook/>
-</a>
-<a href="https://instagram.com/furkann.07" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram/>
-</a>  
 </div>  
 <br />
 
@@ -34,7 +25,7 @@
 - 🤔 I'm interested in Android App Development.   
   
 
-- 🔭 In love with Space and Physics.    
+- 🔭 In love with Space and History.    
   
 
 - ☕ No need to talk about my addiction to coffee, books and movies.     
