@@ -13,11 +13,9 @@
 
 <img width="40%" align="right" alt="space-computers" src="https://media.giphy.com/media/11AyYDOVV6K2wE/giphy.gif" />
 
-### <div align="center">👨‍💻 I'm enthusiastic about Kotlin Multiplatform and Kotlin Server-side. I'm Student for now 🎒</div>  
-<br/>
+### <div align="center">👨‍💻 I'm enthusiastic about Kotlin Multiplatform and Kotlin Server-side. I'm working as an Android Developer Intern at Papara</div>  
+<br/>  
 
-- 🎒 I'm currently Studying in Turkey, Sakarya University MIS.  
-  
 
 - 💻 I'm Addicted to Kotlin, enthusiastic about Kotlin multi-platform and Kotlin server-side.    
   
