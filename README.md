@@ -13,14 +13,11 @@
 
 <img width="40%" align="right" alt="space-computers" src="https://media.giphy.com/media/11AyYDOVV6K2wE/giphy.gif" />
 
-### <div align="center">👨‍💻 I'm enthusiastic about Kotlin Multiplatform and Kotlin Server-side. I'm working as an Android Developer Intern at Papara</div>  
+### <div align="center">👨‍💻 I'm lover of Kotlin and Android. I'm working as an Android Developer Intern at Papara</div>  
 <br/>  
 
 
 - 💻 I'm Addicted to Kotlin, enthusiastic about Kotlin multi-platform and Kotlin server-side.    
-  
-
-- 🤔 I'm interested in Android App Development.   
   
 
 - 🔭 In love with Space and History.    
