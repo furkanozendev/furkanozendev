@@ -13,7 +13,7 @@
 
 <img width="40%" align="right" alt="space-computers" src="https://media.giphy.com/media/11AyYDOVV6K2wE/giphy.gif" />
 
-### <div align="center">👨‍💻 I'm lover of Kotlin and Android. I'm working as an Android Developer Intern at Papara</div>  
+### <div align="center">👨‍💻 I'm lover of Kotlin and Android. I'm working as an Android Developer at Papara</div>  
 <br/>  
 
 
