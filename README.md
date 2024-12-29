@@ -46,16 +46,16 @@
 
 <h3 align="center">Github Stats</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Web0zz&show_icons=true&count_private=true&hide_border=true&theme=dracula"" alt="Web0zz :: Profile Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=furkanozendev&show_icons=true&count_private=true&hide_border=true&theme=dracula"" alt="furkanozendev :: Profile Stats"/>
 </div>
 
 <br />
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Web0zz&langs_count=10&theme=dracula&layout=compact" alt="Web0zz :: Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=furkanozendev&langs_count=10&theme=dracula&layout=compact" alt="furkanozendev :: Top Langs" />
 </div>
 <br />
 
 <div align="center"> 
   <p>Visitor count<br></p>
-  <img src="https://profile-counter.glitch.me/web0zz/count.svg" />
+  <img src="https://profile-counter.glitch.me/furkanozendev/count.svg" />
 </div>
