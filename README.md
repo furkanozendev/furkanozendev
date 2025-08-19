@@ -54,8 +54,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=furkanozendev&langs_count=10&theme=dracula&layout=compact" alt="furkanozendev :: Top Langs" />
 </div>
 <br />
-
-<div align="center"> 
-  <p>Visitor count<br></p>
-  <img src="https://profile-counter.glitch.me/furkanozendev/count.svg" />
-</div>
