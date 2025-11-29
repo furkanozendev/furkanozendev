@@ -8,7 +8,7 @@
   I write Kotlin, break Kotlin, fix Kotlin, and somehow still love Kotlin.<br>
   <b>Android • Compose • KMP • Tooling • Compiler Sorcery</b></b><br>
   <p align="center">
-    <a href="YOUR_LINKEDIN_URL">
+    <a href="https://www.linkedin.com/in/furkanozendev/">
       <img src="https://img.shields.io/badge/LinkedIn-Say%20Hi!-blue?style=for-the-badge&logo=linkedin" />
     </a>
   </p>
