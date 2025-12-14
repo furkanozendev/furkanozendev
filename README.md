@@ -29,9 +29,3 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,idea,gradle,ktor,git,github" />
 </p>
-
-<h2 align="center">📊 Activity Zone</h2>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=furkanozendev&theme=radical" height="180" />
-</p>
