@@ -27,5 +27,5 @@
 <h2 align="center">🔧 My Playground</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,idea,gradle,ktor,git,github" />
+  <img src="https://skills.syvixor.com/api/icons?perline=15&i=kotlin,jetpackcompose,android,androidstudio,ktor,gradle,intellijidea" />
 </p>
